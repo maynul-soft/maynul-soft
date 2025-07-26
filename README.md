@@ -10,7 +10,7 @@
 
 ## 🔗 Connect with Me
 
-- 📫 Reach me at **[********[maynulislamjibon4@gmail.com](mailto\:maynulislamjibon4@gmail.com)********\*\*\*\*]**
+- 📫 Reach me at **maynulislamjibon4@gmail.com](mailto\:maynulislamjibon4@gmail.com)**
 - 💬 Let's talk about Flutter, UI/UX, or anything tech-related!
 
 ## 🛠️ Tech Stack
