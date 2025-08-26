@@ -1,31 +1,44 @@
-# 👋 Hi, I'm Maynul!
+👋 Hi, I'm Maynul!
+🚀 About Me
 
-## 🚀 About Me
+🎯 I'm a Flutter Developer passionate about building mobile apps for Android & iOS.
 
-- 🎯 I'm a **Flutter Developer** passionate about building mobile apps for **Android & iOS**.
-- 👀 I’m interested in **UI/UX design**, **motion graphics**, and **competitive programming**.
-- 🌱 Currently exploring **Flutter animations**, **state management**, and **backend integration**.
-- 💻 I love working on **open-source projects** and learning new technologies.
-- ⚡ Fun fact: I enjoy solving coding challenges and exploring AI tools!
+📱 I have experience in deploying apps to Google Play Store & Apple App Store.
 
-## 🔗 Connect with Me
+👀 Interested in UI/UX design, competitive programming, and backend development.
 
-- 📫 Reach me at **maynulislamjibon4@gmail.com**
-- 💬 Let's talk about Flutter, UI/UX, or anything tech-related!
+🌱 Skilled in state management (Provider & GetX), local storage (Hive & SharedPreferences), and backend with Dart Frog & Firebase.
 
-## 🛠️ Tech Stack
+🏗️ I follow MVVM Architecture for scalable and maintainable projects.
 
-- **Languages:** Dart, JavaScript, HTML, CSS
-- **Frameworks:** Flutter, Firebase.
-- **Tools:** Git, VS Code, Android Studio, Figma, adobe XD. 
+💻 I enjoy working on open-source projects and building production-level apps.
 
-## 📂 My Projects
+🔗 Connect with Me
 
-- 📱 **Task Manager App** – A to-do list app built with Flutter.
-- 🛍️ **E-commerce App** – A complete shopping app with cart & payment integration.
-- 📱 **bKash Clone** – A mobile wallet app inspired by bKash.
+📫 Reach me at maynulislamjibon4@gmail.com
 
-🚀 **Check out my repositories for more!**
+💬 Let's talk about Flutter, UI/UX, or anything tech-related!
 
----
+🛠️ Tech Stack
 
+Languages: Dart (OOP), Python (OOP), Kotlin (Basics)
+
+Frameworks: Flutter, Dart Frog, Firebase
+
+Architecture: MVVM
+
+State Management: Provider, GetX
+
+Local Storage: Hive, SharedPreferences
+
+Tools: Git, VS Code, Android Studio, Figma
+
+📂 My Projects
+
+🏫 Coaching App – A coaching management app built with Flutter.
+
+🛍️ E-commerce App – A shopping application built with Flutter.
+
+📝 Task Manager App – A to-do/task management app built with Flutter.
+
+🚀 Check out my repositories for more!
