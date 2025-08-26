@@ -1,44 +1,54 @@
-👋 Hi, I'm Maynul!
-🚀 About Me
+# 👋 Hi, I'm Maynul!
 
-🎯 I'm a Flutter Developer passionate about building mobile apps for Android & iOS.
+🚀 A passionate **Flutter Developer** experienced in building and deploying mobile apps for **Android & iOS**.
 
-📱 I have experience in deploying apps to Google Play Store & Apple App Store.
 
-👀 Interested in UI/UX design, competitive programming, and backend development.
+=========================
+ABOUT ME
+=========================
 
-🌱 Skilled in state management (Provider & GetX), local storage (Hive & SharedPreferences), and backend with Dart Frog & Firebase.
+## 🚀 About Me  
 
-🏗️ I follow MVVM Architecture for scalable and maintainable projects.
+- 🎯 I'm a **Flutter Developer** passionate about mobile app development.  
+- 📱 I have experience in **deploying apps to Google Play Store & Apple App Store**.  
+- 👀 Interested in **UI/UX design**, **competitive programming**, and **backend development**.  
+- 🌱 Skilled in **state management (Provider & GetX)**, **local storage (Hive & SharedPreferences)**, and **backend with Dart Frog & Firebase**.  
+- 🏗️ I follow **MVVM Architecture** for scalable and maintainable projects.  
+- 💻 I enjoy working on **open-source projects** and building production-level apps.  
 
-💻 I enjoy working on open-source projects and building production-level apps.
 
-🔗 Connect with Me
+=========================
+CONNECT WITH ME
+=========================
 
-📫 Reach me at maynulislamjibon4@gmail.com
+## 🔗 Connect with Me  
 
-💬 Let's talk about Flutter, UI/UX, or anything tech-related!
+- 📫 Reach me at **maynulislamjibon4@gmail.com**  
+- 💬 Let's talk about Flutter, UI/UX, or anything tech-related!  
 
-🛠️ Tech Stack
 
-Languages: Dart (OOP), Python (OOP), Kotlin (Basics)
+=========================
+TECH STACK
+=========================
 
-Frameworks: Flutter, Dart Frog, Firebase
+## 🛠️ Tech Stack  
 
-Architecture: MVVM
+- **Languages:** Dart (OOP), Python (OOP), Kotlin (Basics)  
+- **Frameworks:** Flutter, Dart Frog, Firebase  
+- **Architecture:** MVVM  
+- **State Management:** Provider, GetX  
+- **Local Storage:** Hive, SharedPreferences  
+- **Tools:** Git, VS Code, Android Studio, Figma  
 
-State Management: Provider, GetX
 
-Local Storage: Hive, SharedPreferences
+=========================
+PROJECTS
+=========================
 
-Tools: Git, VS Code, Android Studio, Figma
+## 📂 My Projects  
 
-📂 My Projects
+- 🏫 **Coaching App** – A coaching management app built with Flutter (MVVM Architecture).  
+- 🛍️ **E-commerce App** – A shopping application built with Flutter.  
+- 📝 **Task Manager App** – A to-do/task management app built with Flutter.  
 
-🏫 Coaching App – A coaching management app built with Flutter.
-
-🛍️ E-commerce App – A shopping application built with Flutter.
-
-📝 Task Manager App – A to-do/task management app built with Flutter.
-
-🚀 Check out my repositories for more!
+🚀 **Check out my repositories for more!**
