@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1utEKaSH-J4shLWr8XOBHdbQh6FNislEK/view?usp=share_link" alt="Cover Image" />
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1utEKaSH-J4shLWr8XOBHdbQh6FNislEK"
+    alt="Maynul Cover"
+    width="100%"
+  />
 </p>
 
 
