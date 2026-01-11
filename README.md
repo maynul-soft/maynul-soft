@@ -17,8 +17,8 @@
 - 💼 Flutter Developer focused on **production-ready mobile applications**
 - 📱 Experienced in **Android & iOS** app development using Flutter
 - 🔗 Strong experience with **RESTful API integration**
-- 🏗️ Follow **MVVM architecture** and clean coding principles
-- 🌱 Interested in **Backend Development, System Design & Problem Solving**
+- 🏗️ Follow **MVVM, MVC, MVP architecture** and clean coding principles
+🌱 Passionate about **native mobile development, core system understanding, and strong problem-solving skills**
 - 🤝 Passionate about **learning, innovation, and open-source contribution**
 
 ---
@@ -58,14 +58,14 @@
 
 ### 💾 Local Storage & Services  
 - SharedPreferences  
-- Hive  
+- Hive
 
 ---
 
 ### 🌐 APIs & Integrations  
 - Google Maps API  
 - Authentication APIs  
-- Payment Gateway APIs (SSLCommerz)  
+- Payment Gateway APIs (SSLCommerz, Stripe, Apple pay, Bkash)  
 - Push Notification APIs (FCM)  
 - REST / JSON APIs  
 
