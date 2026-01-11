@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[LINK_TO_YOUR_IMAGE](https://drive.google.com/file/d/1utEKaSH-J4shLWr8XOBHdbQh6FNislEK/view?usp=sharing)" alt="Cover Image" />
+  <img src="https://drive.google.com/file/d/1utEKaSH-J4shLWr8XOBHdbQh6FNislEK/view?usp=share_link" alt="Cover Image" />
 </p>
 
 
